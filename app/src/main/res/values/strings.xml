@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="exit">Выход</string>
+    <string name="titleTVtext">Выберите упражнение</string>
+    <string name="main_titleTVtext">Тренировка</string>
+    <string name="main_quickViewCBtext">Быстрый просмотр</string>
+    <string name="main_startButtonText">Начало тренировки</string>
+    <string name="main_exerciseTVtext">Упражнение</string>
+    <string name="main_timerTVtext">Оставшееся время</string>
+    <string name="main_nextButtonText">Продолжить дальше</string>
+    <string name="startWorkoutText">Начало тренировки</string>
+    <string name="finishTimerTVtext">Упражнение завершено</string>
+    <string name="workoutStartButtonText">Процесс тренировки</string>
+    <string name="exerciseText">Тренировка завершена</string>
+    <string name="startBTNtxt">Начать снова</string>
+    <string name="empty" />
+</resources>

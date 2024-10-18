@@ -1,0 +1,1 @@
+class Exercise (val name: String, val a: String, val durationInSeconds: Int, val gifImage: String)
